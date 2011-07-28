@@ -1,0 +1,4 @@
+hostname: localhost
+user: yourusername
+password: yourpassword
+database: anagrammi
